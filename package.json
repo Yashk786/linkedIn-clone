@@ -1,6 +1,7 @@
 {
   "name": "linkedin-clones",
   "version": "0.1.0",
+   "homepage": "https://yashk786.github.io/linkedin-clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
